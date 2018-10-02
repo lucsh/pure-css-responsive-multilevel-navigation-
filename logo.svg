@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="logo_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 320 320"  xml:space="preserve">
+
+<defs>
+	<linearGradient id="stroke-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+		<stop offset="0%" stop-color="#181718" />
+		<stop offset="100%" stop-color="#FFFFFF" />
+	</linearGradient>
+</defs>
+
+<circle fill="#FFFFFF" class="isologo_circle" cx="160" cy="160" r="160"/>
+<path stroke-linecap="round" stroke="url(#stroke-gradient)" d="M160,58.5l98.3,170.2H61.7L160,58.5 M160,56.5L60,229.7h200L160,56.5L160,56.5z"/>
+</svg>
